@@ -10,5 +10,12 @@ musicalGenres = {
         'Yuridia',
         'Jenni Rivera',
         'Los Tucanes de Tijuana'
-    ]
+    ],
+    'Rap en Español': [
+
+    ],
+    'Rap en Inglés': [
+
+    ],
+    
 }
